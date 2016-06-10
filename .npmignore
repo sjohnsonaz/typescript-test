@@ -1,0 +1,7 @@
+node_modules/
+src/
+*.log
+*.tgz
+.gitignore
+.npmignore
+tsconfig.json

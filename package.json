@@ -5,7 +5,7 @@
   "main": "dist/scripts/main.js",
   "typings": "dist/scripts/main.d.ts",
   "scripts": {
-    "postinstall": "typings install",
+    "install": "typings install",
     "build": "tsc",
     "prepublish": "tsc",
     "test": "jest"
